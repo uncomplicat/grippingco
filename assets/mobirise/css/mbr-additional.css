@@ -665,7 +665,6 @@ section.lazy-placeholder:after {
 .cid-rH55Ug3Et2 .navbar.opened {
   transition: all .5s;
   background: #000000 !important;
-  opacity: 0.5;
 }
 .cid-rH55Ug3Et2 .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1176,5 +1175,5 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rH5nL4i0Dx H3 {
-  color: #c55eca;
+  color: #ff7f9f;
 }
